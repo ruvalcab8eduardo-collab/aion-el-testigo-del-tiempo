@@ -1,12 +1,26 @@
 # Textos promocionales para redes sociales
 
-## X / Twitter
+## X / Twitter (listo para publicar — orgánico)
 
-El tiempo no es una línea. Es un cristal con tres caras. 🔮
+Kael no viajó en el tiempo.
+Construyó una máquina que lo mira.
 
-Aion: El Testigo del Tiempo
+Aion: tres esferas. Pasado. Presente. Futuro.
+27 capítulos. Un testigo que no debería existir.
 
-Historia de Kael y la máquina que vio el futuro.
+El cristal sigue vivo.
+
+https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo
+
+#CienciaFiccion #Aion
+
+---
+
+Alternativa más corta:
+
+El tiempo no es una línea. Es un cristal con tres caras.
+
+Kael lo vio. Aion lo guardó. 27 capítulos después, el testigo sigue observando.
 
 https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo
 
