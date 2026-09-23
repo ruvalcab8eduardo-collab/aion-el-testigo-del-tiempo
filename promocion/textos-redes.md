@@ -45,3 +45,7 @@ Capítulo 1: La tormenta y el cristal. 15 minutos de pura tensión.
 - **X/Twitter**: No publicado. No hay herramienta conectada para posts orgánicos (solo X Ads, que gasta dinero). Copia y pega el texto arriba.
 - **App web**: El sitio actual en Netlify (guileless-liger) muestra otro proyecto. La app de Aion está en el repo en `app/index.html`. Para desplegarla, ejecuta el comando de DEPLOY.md o usa Netlify CLI.
 - **Repo**: https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo
+
+---
+
+*Última actualización: 2026-09-23. Copy listo para pegar manualmente.*
