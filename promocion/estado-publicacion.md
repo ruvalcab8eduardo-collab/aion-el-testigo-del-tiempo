@@ -1,22 +1,22 @@
 # Estado de publicación — Aion: El Testigo del Tiempo
 
-**Fecha:** 2026-09-23
+**Fecha:** 2026-09-24
 
 ## X / Twitter
-- **Estado:** No publicado (orgánico)
-- **Razón:** No hay herramienta conectada para publicar posts orgánicos. Solo X Ads (gasta dinero, prohibido por el usuario).
-- **Copy listo:** Ver `textos-redes.md`
-- **Acción recomendada:** Copiar y pegar manualmente en X.
+- **Estado:** NO publicado en la línea de tiempo pública.
+- **Razón:** La única integración de escritura en X es X Ads. Crear o promover un anuncio gasta dinero. El usuario prohibió anuncios.
+- **No existe** herramienta conectada para un tweet orgánico (timeline público sin pauta).
+- **Copy listo:** Ver `textos-redes.md`. Pegar manualmente en X.
 
 ## App web
-- **Estado:** No desplegada (o no confirmada)
-- La app está en `app/index.html`
-- Sitios Netlify existentes no parecen servir este proyecto
-- Ver `DEPLOY.md`
+- App en `app/index.html`.
+- Sitios Netlify listados en DEPLOY.md no confirmados como esta app.
+- Enlace seguro para promocionar ahora: el repo.
 
 ## Repo
 https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo
 
-## Notas
-- Todo el contenido es orgánico. Sin anuncios.
-- Si se conecta una cuenta de X con permiso de publicación orgánica, se puede automatizar.
+## Qué sí se hizo (orgánico)
+- Se generó y guardó copy misterioso de ciencia ficción.
+- Se actualizó este estado en el repositorio público.
+- Cero gasto en anuncios.
