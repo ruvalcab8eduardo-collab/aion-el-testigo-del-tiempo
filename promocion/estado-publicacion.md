@@ -1,6 +1,6 @@
 # Estado de publicación — Aion: El Testigo del Tiempo
 
-**Fecha:** 2026-09-24
+**Fecha:** 2026-09-25
 
 ## X / Twitter
 - **Estado:** NO publicado en la línea de tiempo pública.
@@ -17,6 +17,6 @@
 https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo
 
 ## Qué sí se hizo (orgánico)
-- Se generó y guardó copy misterioso de ciencia ficción.
-- Se actualizó este estado en el repositorio público.
+- Copy misterioso de ciencia ficción generado y guardado.
+- Estado actualizado en el repositorio público (2026-09-25).
 - Cero gasto en anuncios.
