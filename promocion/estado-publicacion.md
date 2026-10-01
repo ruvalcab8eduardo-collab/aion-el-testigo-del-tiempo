@@ -1,13 +1,13 @@
 # Estado de publicacion — Aion: El Testigo del Tiempo
 
-**Fecha:** 2026-09-29
+**Fecha:** 2026-10-01
 
 ## X / Twitter
 - **Estado:** NO publicado en la linea de tiempo publica.
 - **Razon:** La unica integracion de escritura en X es X Ads. Crear o promover un anuncio gasta dinero. El usuario prohibio anuncios.
 - **No existe** herramienta conectada para un tweet organico (timeline publico sin pauta).
 - **Copy listo:** Ver `textos-redes.md`. Pegar manualmente en X.
-- Busqueda en X: no hay posts previos del proyecto.
+- Busqueda en X (2026-10-01): no hay posts del proyecto. Coincidencias irrelevantes (AION2 / VTuber).
 
 ## Copy preparado (no publicado en X)
 
@@ -33,6 +33,7 @@ https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo
 
 ## Que si se hizo (organico)
 - Copy misterioso de ciencia ficcion generado y guardado.
-- Estado actualizado en el repositorio publico (2026-09-29).
-- Issue publico de lanzamiento en GitHub.
+- Estado actualizado en el repositorio publico (2026-10-01).
+- Issue publico: https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo/issues/5
+- Issue previo de lanzamiento: #4.
 - Cero gasto en anuncios.
