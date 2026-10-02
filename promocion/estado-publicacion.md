@@ -1,13 +1,13 @@
 # Estado de publicacion — Aion: El Testigo del Tiempo
 
-**Fecha:** 2026-10-01
+**Fecha:** 2026-10-02
 
 ## X / Twitter
 - **Estado:** NO publicado en la linea de tiempo publica.
 - **Razon:** La unica integracion de escritura en X es X Ads. Crear o promover un anuncio gasta dinero. El usuario prohibio anuncios.
 - **No existe** herramienta conectada para un tweet organico (timeline publico sin pauta).
 - **Copy listo:** Ver `textos-redes.md`. Pegar manualmente en X.
-- Busqueda en X (2026-10-01): no hay posts del proyecto. Coincidencias irrelevantes (AION2 / VTuber).
+- Cero gasto. No se creo anuncio, tarjeta ni post promocionado.
 
 ## Copy preparado (no publicado en X)
 
@@ -19,21 +19,19 @@ Aion: tres esferas. Pasado. Presente. Futuro.
 
 El cristal sigue vivo.
 
-https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo
+https://aion-el-testigo-del-tiempo-app.vercel.app
 
 #CienciaFiccion #Aion #ElTestigoDelTiempo
 
 ## App web
-- App en `app/index.html`.
-- Sitios Netlify existentes (guileless-liger, chimerical-pothos, cosmic-sorbet) pertenecen a otros proyectos. No se sobrescribieron.
-- Enlace seguro para promocionar ahora: el repo.
+- Desplegada y accesible: https://aion-el-testigo-del-tiempo-app.vercel.app
+- Muestra Aion, las tres esferas y el enlace a la historia.
+- Sitios Netlify previos de otros proyectos no se tocaron.
 
 ## Repo
 https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo
 
-## Que si se hizo (organico)
-- Copy misterioso de ciencia ficcion generado y guardado.
-- Estado actualizado en el repositorio publico (2026-10-01).
-- Issue publico: https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo/issues/5
-- Issue previo de lanzamiento: #4.
+## Que si se publico (organico, 2026-10-02)
+- Nota publica en el repositorio (issue de promocion).
+- Copy actualizado con el enlace de la app en vivo.
 - Cero gasto en anuncios.
