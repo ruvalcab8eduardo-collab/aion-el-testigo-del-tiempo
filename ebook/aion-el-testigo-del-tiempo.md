@@ -136,13 +136,161 @@ En una ciudad de arena, bajo una cúpula de cristal roto, un grupo de eruditos i
 
 Solo responde a quien está dispuesto a ver… y a cargar con lo que ve.
 
+### Capítulo 13 — El taller del desierto
+
+Llegó al taller casi por accidente.
+
+Un hombre llamado Elias, relojero y restaurador de instrumentos antiguos, lo compró en un mercado de objetos perdidos. No buscaba un cristal. Buscaba un engranaje. Pero cuando lo sostuvo, las tres caras se iluminaron débilmente bajo la luz del desierto.
+
+Elias no era un visionario. Era un artesano. Y eso bastó.
+
+Durante meses estudió cada marca, cada irregularidad. Encontró, ocultos en el polvo de una caja de herramientas heredada, unos planos incompletos dibujados con tinta que ya no se fabricaba. Los planos de Kael.
+
+### Capítulo 14 — La reconstrucción
+
+Elias reconstruyó Aion pieza por pieza.
+
+Tres esferas nuevas, talladas de un cristal más joven, rodearon el núcleo original. El soporte de bronce fue reemplazado por una aleación moderna que no existía en la época de Kael. Los cables fueron sustituidos por conductores transparentes.
+
+La máquina volvió a existir.
+
+Cuando Elias la activó por primera vez, las tres esferas giraron. El pasado mostró el taller vacío de hacía meses. El presente mostró su propio rostro temblando. El futuro… se negó a abrirse del todo.
+
+Algo faltaba.
+
+### Capítulo 15 — Primera activación moderna
+
+Faltaba el operador.
+
+Elias no era el elegido. Era solo el constructor. El cristal lo sabía. Cada vez que Elias intentaba mirar más allá, las imágenes se desvanecían. Como si Aion estuviera esperando a alguien que aún no había llegado.
+
+Una noche, sin avisar, un joven entró en el taller. No buscaba relojes. Buscaba respuestas. Había soñado con tres esferas girando en la oscuridad.
+
+Se llamaba Mateo.
+
+El cristal brilló más fuerte que nunca.
+
 ---
 
-*(Continúa en los siguientes capítulos: el taller del desierto, la reconstrucción, el operador moderno, las tres esferas activas, el dilema de avisar o callar, y el momento en que el cristal se divide…)*
+## Parte III: El Operador Moderno
+
+### Capítulo 16 — El operador
+
+Mateo no entendía por qué el cristal respondía a él. Solo sabía que, al mirarlo, el tiempo se abría.
+
+Elias le entregó Aion sin explicaciones largas. Solo dijo:
+
+—No viaja. Observa. Y lo que observes, no podrás olvidarlo.
+
+Mateo asintió.
+
+### Capítulo 17 — La esfera del pasado
+
+La primera esfera le mostró a Kael.
+
+No como una historia. Como presencia. Vio la terraza, la tormenta, el cristal cayendo, la advertencia ignorada, el agua negra tragándose la ciudad. Sintió el peso del fracaso de Kael como si fuera propio.
+
+Cuando la visión terminó, Mateo lloró sin saber por qué.
+
+### Capítulo 18 — La esfera del presente
+
+La segunda esfera no mostraba el mundo exterior. Mostraba el momento exacto en que se encontraba: el taller, el polvo flotando en la luz, el latido de su propio corazón con un retraso mínimo.
+
+Era inquietante. Como si el presente también necesitara ser confirmado.
+
+### Capítulo 19 — La esfera del futuro
+
+La tercera esfera se abrió con dificultad.
+
+Mostró fragmentos: una ciudad moderna bajo una lluvia que no cesaba. Unas torres que se inclinaban. Gente corriendo. Y en medio de todo, un hombre —él mismo— de pie frente a Aion, debatiendo si debía hablar o permanecer en silencio.
+
+La visión se cortó.
+
+El futuro aún no estaba decidido.
+
+### Capítulo 20 — El dilema
+
+Mateo comprendió el peso que Kael había cargado.
+
+Si advertía, nadie le creería. Si callaba, el desastre ocurriría igual. Y si lograba cambiar algo… ¿quién garantizaba que el nuevo futuro no sería peor?
+
+Aion no daba respuestas. Solo mostraba.
+
+### Capítulo 21 — Avisar o callar
+
+Durante semanas Mateo intentó hablar. Escribió. Publicó. Contactó a personas que creía importantes.
+
+Algunos se rieron. Otros lo bloquearon. Unos pocos lo escucharon… y luego olvidaron.
+
+El futuro en la esfera no cambiaba.
+
+Hasta que un día, sin que él lo notara, un detalle minúsculo se modificó: una persona más se detuvo a mirar el cielo.
+
+### Capítulo 22 — Las consecuencias
+
+El desastre no se detuvo por completo. Pero se atenuó.
+
+La lluvia llegó. Las torres se inclinaron. Hubo evacuaciones. Hubo pérdidas. Pero no fue el final total que la esfera había mostrado al principio.
+
+Mateo no sabía si su advertencia había cambiado algo o si el tiempo simplemente había encontrado otra ruta.
+
+Aion no se lo dijo.
+
+### Capítulo 23 — El segundo operador
+
+Una noche el cristal se dividió en dos.
+
+No se rompió. Se separó limpiamente, como si siempre hubiera estado esperando ese momento. Una mitad permaneció con Mateo. La otra desapareció.
+
+Días después, en otra ciudad, una mujer encontró un fragmento brillante entre los restos de un viejo mercado. Cuando lo tocó, las tres esferas aparecieron frente a ella.
+
+El testigo se había multiplicado.
+
+### Capítulo 24 — El cristal se divide
+
+Mateo entendió entonces lo que Kael había escrito en la corteza:
+
+*El testigo no debe ser destruido.*
+
+No porque fuera sagrado. Sino porque el tiempo necesita ser observado. Y a veces necesita más de un par de ojos.
+
+### Capítulo 25 — El final del testigo
+
+No hubo un final definitivo.
+
+Aion siguió existiendo en fragmentos. Algunos se apagaron. Otros encontraron nuevos operadores. Algunos permanecieron ocultos durante décadas.
+
+El tiempo continuó. Como siempre.
+
+### Capítulo 26 — Lo que el tiempo decidió
+
+Años después, Mateo regresó al taller del desierto. El lugar estaba vacío. Elias había muerto. La máquina original ya no estaba.
+
+Solo quedaba una nota clavada en la mesa:
+
+*«El cristal sigue vivo. Alguien más lo está mirando ahora.»*
+
+Mateo sonrió por primera vez en mucho tiempo.
+
+### Capítulo 27 — Epílogo: El cristal sigue vivo
+
+En algún lugar, en este preciso instante, alguien sostiene un fragmento que brilla débilmente.
+
+Tres esferas giran en silencio.
+
+El pasado muestra lo que ya fue.  
+El presente confirma que aún estamos aquí.  
+El futuro tiembla, abierto, esperando.
+
+Aion no viaja en el tiempo.
+
+Solo observa.
+
+Y el testigo… sigue vivo.
 
 ---
 
-**Nota del autor**  
-Aion no es una máquina de viajar en el tiempo.  
-Es un testigo.  
-Y el testigo sigue vivo.
+**Fin**
+
+*Aion: El Testigo del Tiempo*  
+Historia de Kael, el cristal y los operadores que se atrevieron a mirar.
