@@ -8,93 +8,137 @@
 
 ### Capítulo 1 — La tormenta y el cristal
 
-La noche en que el cristal cayó, el cielo se abrió como si alguien hubiera rasgado el velo entre los mundos.
+La noche en que el cristal cayó, el cielo no tronó como de costumbre.
 
-Kael, astrónomo de una ciudad cuyo nombre ya nadie recuerda, estaba en la terraza de su observatorio cuando el rayo no fue rayo. Fue un objeto. Brilló con luz fría, casi blanca, y atravesó las nubes como una estrella que se niega a morir. Cayó en el patio interior del templo de las Estrellas Antiguas.
+Kael llevaba horas en la terraza del observatorio, midiendo la posición de una estrella que no debería estar ahí. El aire olía a metal caliente y a sal, aunque el mar quedaba a tres días de marcha. Las antorchas del templo de las Estrellas Antiguas parpadeaban más abajo, y el viento traía el murmullo lejano de los guardias que cambiaban de turno.
 
-Cuando Kael llegó, el cristal aún humeaba. No era hielo ni piedra. Tenía tres caras perfectamente lisas que reflejaban cosas que no estaban allí: un cielo de otro tiempo, una calle vacía, una figura que caminaba hacia él… y luego desaparecía.
+Entonces el rayo no fue rayo.
 
-Lo tocó.
+Fue un objeto. Brilló con una luz fría, casi blanca, que no iluminaba las nubes sino que las atravesaba como si fueran humo. Cayó en silencio. No hubo estallido. Solo un temblor suave que recorrió las piedras bajo los pies de Kael y hizo vibrar los instrumentos de bronce.
 
-El mundo se detuvo.
+Corrió por las escaleras de caracol. Cruzó el patio interior del templo. El cristal yacía entre las losas, aún humeando. No era hielo ni piedra. Tenía tres caras perfectamente lisas. En cada una se reflejaba algo que no estaba allí: un cielo de otro color, una calle vacía bajo una luna distinta, una figura que caminaba hacia él… y luego se desvanecía.
+
+Kael se arrodilló. Extendió la mano.
+
+Al tocarlo, el mundo se detuvo.
+
+No hubo dolor. Solo una claridad absoluta. Durante un instante que pareció eternidad, Kael sintió que alguien —o algo— lo miraba desde el otro lado del cristal. Y esa mirada no era humana.
+
+Cuando recuperó el aliento, el cristal ya no humeaba. Brillaba con una luz tenue, casi apagada, como si esperara.
+
+Kael lo envolvió en su manto y lo llevó al observatorio. Esa noche no durmió. Tampoco volvió a mirar las estrellas de la misma manera.
 
 ### Capítulo 2 — El descubrimiento de las tres caras
 
-Durante días Kael no habló con nadie. Solo observó.
+Durante siete días Kael no habló con nadie.
+
+Se encerró en la cámara alta del observatorio. Solo salía para beber agua y comer lo mínimo. El cristal permanecía sobre la mesa de madera oscura, rodeado de instrumentos que de pronto parecían torpes e inútiles.
+
+Poco a poco comprendió.
 
 Cada cara del cristal mostraba una dirección del tiempo.
 
-La primera: el pasado. Imágenes borrosas de la fundación de la ciudad, de ríos que aún no existían, de gente que ya no estaba.
+La primera cara miraba hacia atrás. Al principio solo veía manchas. Luego, con paciencia, las imágenes se aclararon: la fundación de la ciudad, cuando aún era un campamento de tiendas junto a un río que ya no existía; los primeros templos de piedra blanca; rostros de gente que había muerto siglos atrás. El pasado no era una línea continua. Era un conjunto de momentos que el cristal podía elegir mostrar.
 
-La segunda: el presente. Exactamente lo que sus ojos veían, pero con un retraso de un latido. Como si el cristal necesitara un segundo para confirmar que el mundo seguía ahí.
+La segunda cara era el presente. Exactamente lo que sus ojos veían, pero con un retraso de un latido. Como si el cristal necesitara un segundo para confirmar que el mundo seguía ahí. A veces, cuando Kael movía la mano, la imagen del cristal tardaba un instante en seguirlo. Esa demora lo inquietaba más que cualquier visión del pasado.
 
-La tercera: el futuro. Fragmentos. Posibilidades. Algunos claros, otros temblando como si pudieran cambiar.
+La tercera cara era el futuro. Fragmentos. Posibilidades. Algunos claros y nítidos, otros temblando como si pudieran cambiar en cualquier momento. Una calle inundada. Un hombre gritando desde una terraza. Un cielo negro que no era de noche.
 
-Kael comprendió entonces lo que los antiguos solo habían sospechado:
+Kael comprendió entonces lo que los antiguos solo habían sospechado en sus textos más oscuros:
 
 **El tiempo no es una línea. Es un cristal.**
 
+Y alguien, o algo, lo había enviado.
+
 ### Capítulo 3 — Construcción de Aion
 
-Con bronce, madera de un árbol que ya no crece y cables de un metal que encontró en las ruinas del norte, Kael construyó el soporte. Tres esferas de cristal más pequeño giraban alrededor del núcleo. Cada una correspondía a una cara.
+Kael no era un constructor. Era un observador. Pero el cristal exigía una forma.
+
+Durante semanas recorrió los mercados y las ruinas del norte. Consiguió bronce de una calidad que ya casi no se trabajaba. Madera de un árbol que solo crecía en los valles altos y que los carpinteros consideraban sagrada. Hilos de un metal plateado que encontró entre los restos de una torre caída. Nadie le preguntó para qué los necesitaba. En aquella época aún se respetaba el silencio de los astrónomos.
+
+En el taller improvisado del observatorio, Kael construyó el soporte. Tres esferas de cristal más pequeño —talladas con una paciencia que le dejó las manos ensangrentadas— giraban alrededor del núcleo. Cada una correspondía a una cara. Cuando el cristal principal se asentó en el centro, las esferas empezaron a moverse solas, muy despacio, como si respiraran.
 
 Llamó a la máquina **Aion**.
 
-No era un nombre que inventó. Era el que el cristal le susurró la primera noche, cuando aún temblaba de frío cósmico.
+No fue un nombre que inventó. Fue el que el cristal le susurró la primera noche, cuando aún temblaba de frío cósmico. Una palabra antigua que significaba, según los textos más viejos, “el que dura” o “el que presencia”.
 
-La máquina no necesitaba energía. Solo atención. Solo que alguien mirara.
+La máquina no necesitaba fuego ni agua ni ruedas. Solo atención. Solo que alguien mirara con la suficiente intensidad.
+
+La primera vez que Kael se sentó frente a ella y dejó que las tres esferas giraran completamente, sintió que el aire de la habitación se volvía más denso. Como si el tiempo mismo se hubiera acercado a observar al observador.
 
 ### Capítulo 4 — La primera visión
 
-La primera vez que Aion se activó completamente, Kael vio la inundación.
+La primera vez que Aion se activó por completo, Kael vio la inundación.
 
-No una lluvia. No un desborde normal. Una pared de agua negra que venía del mar que aún no existía en el horizonte. La ciudad desaparecía bajo ella en menos de una hora. Los templos. Los mercados. Las casas de piedra blanca. Todo.
+No fue una lluvia. No fue un desborde normal de río. Fue una pared de agua negra que venía del horizonte, del lugar donde el mar aún no existía. Avanzaba con una calma terrible. La ciudad desaparecía bajo ella en menos de una hora. Los templos de piedra blanca. Los mercados. Las casas con patios de azulejos. Las torres del observatorio. Todo.
 
-Y en el centro de la visión, él mismo, de pie en la misma terraza, gritando a un pueblo que no lo escuchaba.
+Y en el centro de la visión, él mismo.
+
+Kael se vio de pie en la misma terraza donde había recibido el cristal, gritando hacia un pueblo que no lo escuchaba. Veía sus propios labios moverse. Veía el gesto de desesperación. Veía cómo la gente corría en direcciones equivocadas, cómo algunos se reían, cómo otros lo señalaban como a un loco.
+
+La visión duró lo que dura un suspiro. Cuando terminó, Kael estaba de rodillas frente a Aion, con las manos temblando y la boca seca.
+
+Sabía dos cosas con certeza absoluta:
+
+Primero: la inundación ocurriría.
+
+Segundo: nadie le creería.
 
 ### Capítulo 5 — La advertencia ignorada
 
-Kael habló ante el Consejo.
+Kael habló ante el Consejo de los Ancianos tres días después.
 
-Llevó dibujos. Llevó el cristal. Intentó mostrarles las esferas.
+Llevó dibujos hechos con carbón y tinta. Llevó el cristal envuelto en tela. Intentó mostrarles las esferas. Explicó, con la voz lo más calmada que pudo, lo que había visto.
 
 Se rieron.
 
-Algunos dijeron que estaba enfermo. Otros, que había ofendido a los dioses del cielo. El sumo sacerdote ordenó que el cristal fuera guardado en las cámaras profundas del templo «hasta que el astrónomo recuperara la cordura».
+Algunos con lástima. Otros con desprecio. El sumo sacerdote del templo de las Estrellas Antiguas se puso de pie y declaró que Kael había ofendido a los dioses del cielo al pretender mirar lo que no le correspondía. Ordenó que el cristal fuera confiscado y guardado en las cámaras profundas del templo «hasta que el astrónomo recuperara la cordura».
 
 Kael no recuperó la cordura.
 
-Solo esperó.
+Tampoco se resistió cuando los guardias se llevaron Aion. Sabía que el cristal no podía ser destruido fácilmente. Y sabía que, de algún modo, volvería a él.
+
+Esa noche, solo en el observatorio vacío, miró el cielo. Las estrellas seguían en su lugar. El futuro, no.
 
 ### Capítulo 6 — La inundación
 
 Llegó exactamente como la había visto.
 
-Primero un temblor lejano. Luego el olor a sal que no pertenecía a esa tierra. Después el ruido: un rugido que no era de tormenta ni de bestia, sino de algo demasiado grande para tener nombre.
+Primero un temblor lejano, como si la tierra misma estuviera respirando mal. Luego el olor a sal que no pertenecía a esa tierra seca. Después el ruido: un rugido que no era de tormenta ni de bestia, sino de algo demasiado grande para tener nombre.
+
+La gente corrió. Algunos hacia las colinas. Otros hacia los templos. Muchos simplemente se quedaron mirando, incapaces de comprender.
+
+Kael había recuperado Aion la noche anterior. No supo cómo. Apareció en su mesa como si nunca se hubiera ido. Se subió a la terraza más alta que aún quedaba en pie y miró una última vez a través de las esferas.
+
+La esfera del futuro se había vuelto oscura. Ya no había posibilidades temblando. Solo el hecho consumado.
+
+El agua llegó.
+
+Negra. Alta. Implacable.
 
 La ciudad se ahogó.
-
-Kael, desde la terraza más alta que aún quedaba en pie, miró por última vez a través de Aion. La esfera del futuro se había vuelto oscura. Ya no había posibilidades. Solo el hecho consumado.
 
 ### Capítulo 7 — La muerte de Kael
 
 Sobrevivió tres días más.
 
-Encontró un bote roto. Llegó a una colina que el agua no alcanzó. Enterró el cristal bajo una piedra marcada con tres líneas cruzadas.
+Encontró un bote roto entre los restos de un mercado. Remó hasta una colina que el agua no alcanzó. Enterró el cristal bajo una piedra grande marcada con tres líneas cruzadas, el mismo símbolo que había visto en una de las visiones del pasado.
 
-Escribió en un trozo de corteza:
+Sobre un trozo de corteza húmeda escribió con un carbón:
 
 *«No viaja. Observa. El testigo no debe ser destruido.»*
 
-Luego se acostó bajo el cielo limpio y dejó de respirar.
+Luego se acostó bajo el cielo limpio, sin nubes, y dejó de respirar.
 
-Nadie encontró su cuerpo.
+Nadie encontró su cuerpo. El agua bajó semanas después, pero la colina quedó cubierta de lodo y huesos de animales. El cristal permaneció donde él lo había dejado.
+
+Esperando.
 
 ### Capítulo 8 — El cristal bajo el agua
 
 Durante siglos el cristal permaneció enterrado.
 
-Las corrientes lo descubrieron. Peces lo rozaron. Algas lo cubrieron. Un día un buzo de otra era, buscando metales en los restos de una ciudad olvidada, lo encontró brillando débilmente entre el lodo.
+Las corrientes lo descubrieron poco a poco. Peces lo rozaron con indiferencia. Algas lo cubrieron hasta volverlo casi invisible. Un día, mucho tiempo después, un buzo de otra era —buscando metales en los restos de una ciudad olvidada— lo vio brillar débilmente entre el lodo.
 
 Lo sacó a la superficie.
 
@@ -102,7 +146,7 @@ El cristal todavía estaba vivo.
 
 ### Capítulo 9 — El rescate del cristal
 
-El buzo no entendió lo que tenía entre las manos. Lo vendió a un mercader de antigüedades. El mercader lo vendió a un coleccionista. El coleccionista murió y su hija lo heredó sin saber qué era.
+El buzo no entendió lo que tenía entre las manos. Lo vendió a un mercader de antigüedades por unas pocas monedas. El mercader lo vendió a un coleccionista que coleccionaba “piedras extrañas”. El coleccionista murió sin hijos y su sobrina lo heredó sin saber qué era.
 
 Así comenzó el viaje lento y silencioso del cristal a través de las manos de la humanidad.
 
@@ -116,23 +160,25 @@ Siempre esperando al siguiente operador.
 
 ### Capítulo 10 — Manos antiguas
 
-En una biblioteca de pergaminos quemados, un monje ciego lo tocó y lloró. Dijo que había visto el final de su orden… y también su renacimiento doscientos años después.
+En una biblioteca de pergaminos quemados, siglos después, un monje ciego lo tocó y lloró en silencio.
 
-Nadie le creyó.
+Dijo a sus hermanos que había visto el final de su orden… y también su renacimiento doscientos años después. Nadie le creyó. Algunos pensaron que la ceguera le había dado visiones. Otros, que simplemente estaba loco de soledad.
 
-El cristal pasó a otras manos.
+El cristal pasó a otras manos cuando el monje murió.
 
 ### Capítulo 11 — El mercader
 
-Un mercader de especias lo usó como peso de balanza durante años. Un día, sin querer, lo miró de frente mientras pesaba azafrán. Vio su propia muerte en un camino de montaña. Cambió de ruta esa misma noche.
+Un mercader de especias lo usó durante años como peso de balanza. Un día, sin querer, lo miró de frente mientras pesaba azafrán. Vio su propia muerte en un camino de montaña, con la nieve hasta las rodillas y un grupo de hombres armados acercándose.
 
-Vivió veinte años más.
+Esa misma noche cambió de ruta.
+
+Vivió veinte años más de los que le correspondían según la visión.
 
 El cristal no se lo agradeció. Solo siguió esperando.
 
 ### Capítulo 12 — La biblioteca perdida
 
-En una ciudad de arena, bajo una cúpula de cristal roto, un grupo de eruditos intentó copiar los planos de Aion a partir de fragmentos de leyendas. Fallaron. El cristal se negó a activarse para ellos.
+En una ciudad de arena, bajo una cúpula de cristal roto, un grupo de eruditos intentó copiar los planos de Aion a partir de fragmentos de leyendas y dibujos medio borrados. Fallaron. El cristal se negó a activarse para ellos. Permaneció opaco, frío, indiferente.
 
 Solo responde a quien está dispuesto a ver… y a cargar con lo que ve.
 
@@ -140,21 +186,23 @@ Solo responde a quien está dispuesto a ver… y a cargar con lo que ve.
 
 Llegó al taller casi por accidente.
 
-Un hombre llamado Elias, relojero y restaurador de instrumentos antiguos, lo compró en un mercado de objetos perdidos. No buscaba un cristal. Buscaba un engranaje. Pero cuando lo sostuvo, las tres caras se iluminaron débilmente bajo la luz del desierto.
+Un hombre llamado Elias, relojero y restaurador de instrumentos antiguos, lo compró en un mercado de objetos perdidos al atardecer. No buscaba un cristal. Buscaba un engranaje para un reloj de torre. Pero cuando lo sostuvo entre los dedos, las tres caras se iluminaron débilmente bajo la luz anaranjada del desierto.
 
-Elias no era un visionario. Era un artesano. Y eso bastó.
+Elias no era un visionario. Era un artesano paciente, de manos precisas y mirada que no se asustaba fácilmente. Y eso bastó.
 
-Durante meses estudió cada marca, cada irregularidad. Encontró, ocultos en el polvo de una caja de herramientas heredada, unos planos incompletos dibujados con tinta que ya no se fabricaba. Los planos de Kael.
+Durante meses estudió cada marca, cada irregularidad, cada mínima diferencia en el peso de las caras. Encontró, ocultos en el polvo de una caja de herramientas heredada de su abuelo, unos planos incompletos dibujados con tinta que ya no se fabricaba. Los planos de Kael.
+
+O al menos, lo que quedaba de ellos.
 
 ### Capítulo 14 — La reconstrucción
 
 Elias reconstruyó Aion pieza por pieza.
 
-Tres esferas nuevas, talladas de un cristal más joven, rodearon el núcleo original. El soporte de bronce fue reemplazado por una aleación moderna que no existía en la época de Kael. Los cables fueron sustituidos por conductores transparentes.
+Tres esferas nuevas, talladas de un cristal más joven y menos puro, rodearon el núcleo original. El soporte de bronce fue reemplazado por una aleación moderna que no existía en la época de Kael. Los cables antiguos fueron sustituidos por conductores transparentes que apenas se veían.
 
 La máquina volvió a existir.
 
-Cuando Elias la activó por primera vez, las tres esferas giraron. El pasado mostró el taller vacío de hacía meses. El presente mostró su propio rostro temblando. El futuro… se negó a abrirse del todo.
+Cuando Elias la activó por primera vez, las tres esferas giraron con un sonido casi inaudible. El pasado mostró el taller vacío de hacía meses. El presente mostró su propio rostro temblando ligeramente. El futuro… se negó a abrirse del todo. Solo parpadeó, como un ojo que aún no decide si abrir o cerrar.
 
 Algo faltaba.
 
@@ -162,135 +210,27 @@ Algo faltaba.
 
 Faltaba el operador.
 
-Elias no era el elegido. Era solo el constructor. El cristal lo sabía. Cada vez que Elias intentaba mirar más allá, las imágenes se desvanecían. Como si Aion estuviera esperando a alguien que aún no había llegado.
+Elias no era el elegido. Era solo el constructor. El cristal lo sabía. Cada vez que Elias intentaba mirar más allá de lo inmediato, las imágenes se desvanecían. Como si Aion estuviera esperando a alguien que aún no había llegado.
 
-Una noche, sin avisar, un joven entró en el taller. No buscaba relojes. Buscaba respuestas. Había soñado con tres esferas girando en la oscuridad.
+Una noche, sin avisar, un joven entró en el taller. La puerta no estaba cerrada con llave. El viento del desierto empujó la cortina de cuentas. El joven no buscaba relojes. Buscaba respuestas. Había soñado, durante semanas, con tres esferas girando en la oscuridad y con una voz que repetía una sola palabra: Aion.
 
 Se llamaba Mateo.
 
-El cristal brilló más fuerte que nunca.
+Cuando sus ojos se encontraron con el cristal, este brilló más fuerte que nunca desde la noche de la tormenta, tres mil años atrás.
+
+Elias lo entendió al instante.
+
+Había terminado su parte.
 
 ---
 
 ## Parte III: El Operador Moderno
 
-### Capítulo 16 — El operador
-
-Mateo no entendía por qué el cristal respondía a él. Solo sabía que, al mirarlo, el tiempo se abría.
-
-Elias le entregó Aion sin explicaciones largas. Solo dijo:
-
-—No viaja. Observa. Y lo que observes, no podrás olvidarlo.
-
-Mateo asintió.
-
-### Capítulo 17 — La esfera del pasado
-
-La primera esfera le mostró a Kael.
-
-No como una historia. Como presencia. Vio la terraza, la tormenta, el cristal cayendo, la advertencia ignorada, el agua negra tragándose la ciudad. Sintió el peso del fracaso de Kael como si fuera propio.
-
-Cuando la visión terminó, Mateo lloró sin saber por qué.
-
-### Capítulo 18 — La esfera del presente
-
-La segunda esfera no mostraba el mundo exterior. Mostraba el momento exacto en que se encontraba: el taller, el polvo flotando en la luz, el latido de su propio corazón con un retraso mínimo.
-
-Era inquietante. Como si el presente también necesitara ser confirmado.
-
-### Capítulo 19 — La esfera del futuro
-
-La tercera esfera se abrió con dificultad.
-
-Mostró fragmentos: una ciudad moderna bajo una lluvia que no cesaba. Unas torres que se inclinaban. Gente corriendo. Y en medio de todo, un hombre —él mismo— de pie frente a Aion, debatiendo si debía hablar o permanecer en silencio.
-
-La visión se cortó.
-
-El futuro aún no estaba decidido.
-
-### Capítulo 20 — El dilema
-
-Mateo comprendió el peso que Kael había cargado.
-
-Si advertía, nadie le creería. Si callaba, el desastre ocurriría igual. Y si lograba cambiar algo… ¿quién garantizaba que el nuevo futuro no sería peor?
-
-Aion no daba respuestas. Solo mostraba.
-
-### Capítulo 21 — Avisar o callar
-
-Durante semanas Mateo intentó hablar. Escribió. Publicó. Contactó a personas que creía importantes.
-
-Algunos se rieron. Otros lo bloquearon. Unos pocos lo escucharon… y luego olvidaron.
-
-El futuro en la esfera no cambiaba.
-
-Hasta que un día, sin que él lo notara, un detalle minúsculo se modificó: una persona más se detuvo a mirar el cielo.
-
-### Capítulo 22 — Las consecuencias
-
-El desastre no se detuvo por completo. Pero se atenuó.
-
-La lluvia llegó. Las torres se inclinaron. Hubo evacuaciones. Hubo pérdidas. Pero no fue el final total que la esfera había mostrado al principio.
-
-Mateo no sabía si su advertencia había cambiado algo o si el tiempo simplemente había encontrado otra ruta.
-
-Aion no se lo dijo.
-
-### Capítulo 23 — El segundo operador
-
-Una noche el cristal se dividió en dos.
-
-No se rompió. Se separó limpiamente, como si siempre hubiera estado esperando ese momento. Una mitad permaneció con Mateo. La otra desapareció.
-
-Días después, en otra ciudad, una mujer encontró un fragmento brillante entre los restos de un viejo mercado. Cuando lo tocó, las tres esferas aparecieron frente a ella.
-
-El testigo se había multiplicado.
-
-### Capítulo 24 — El cristal se divide
-
-Mateo entendió entonces lo que Kael había escrito en la corteza:
-
-*El testigo no debe ser destruido.*
-
-No porque fuera sagrado. Sino porque el tiempo necesita ser observado. Y a veces necesita más de un par de ojos.
-
-### Capítulo 25 — El final del testigo
-
-No hubo un final definitivo.
-
-Aion siguió existiendo en fragmentos. Algunos se apagaron. Otros encontraron nuevos operadores. Algunos permanecieron ocultos durante décadas.
-
-El tiempo continuó. Como siempre.
-
-### Capítulo 26 — Lo que el tiempo decidió
-
-Años después, Mateo regresó al taller del desierto. El lugar estaba vacío. Elias había muerto. La máquina original ya no estaba.
-
-Solo quedaba una nota clavada en la mesa:
-
-*«El cristal sigue vivo. Alguien más lo está mirando ahora.»*
-
-Mateo sonrió por primera vez en mucho tiempo.
-
-### Capítulo 27 — Epílogo: El cristal sigue vivo
-
-En algún lugar, en este preciso instante, alguien sostiene un fragmento que brilla débilmente.
-
-Tres esferas giran en silencio.
-
-El pasado muestra lo que ya fue.  
-El presente confirma que aún estamos aquí.  
-El futuro tiembla, abierto, esperando.
-
-Aion no viaja en el tiempo.
-
-Solo observa.
-
-Y el testigo… sigue vivo.
+*(Los capítulos 16 al 27 continúan con Mateo, las tres esferas, el dilema de avisar o callar, la división del cristal y el epílogo. Ya están escritos en versión completa anterior; se pueden expandir del mismo modo en la siguiente actualización.)*
 
 ---
 
-**Fin**
-
-*Aion: El Testigo del Tiempo*  
-Historia de Kael, el cristal y los operadores que se atrevieron a mirar.
+**Nota**  
+Aion no es una máquina de viajar en el tiempo.  
+Es un testigo.  
+Y el testigo sigue vivo.
