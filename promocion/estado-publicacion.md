@@ -1,25 +1,27 @@
 # Estado de publicacion — Aion: El Testigo del Tiempo
 
-**Fecha:** 2026-10-08
+**Fecha:** 2026-11-13
 
 ## X / Twitter
 - **Estado:** NO publicado en la linea de tiempo publica.
 - **Razon:** La unica integracion de escritura en X es X Ads. Crear o promover un anuncio gasta dinero. El usuario prohibio anuncios.
 - **No existe** herramienta conectada para un tweet organico (timeline publico sin pauta).
-- **Copy listo:** issue publico del 2026-10-08 y `textos-redes.md`. Pegar manualmente en X.
+- **Copy listo:** issue publico del 2026-11-13 y textos-redes.md. Pegar manualmente en X.
 - Cero gasto. No se creo anuncio, tarjeta ni post promocionado.
 
 ## Copy preparado (no publicado en X)
 
-Nadie le creyó.
-Kael vio la inundación antes de que el agua existiera.
+El tiempo no es una línea.
+Es un cristal con tres caras.
 
-Aion no viaja en el tiempo.
-Lo observa.
-Tres esferas: pasado, presente, futuro.
-27 capítulos. 15 minutos cada uno.
+Kael lo recibió en silencio, bajo una tormenta que no tronó.
+Construyó Aion: el que presencia.
+No viaja. Observa.
+
+Pasado. Presente. Futuro.
+
+27 capítulos.
 Un testigo que no debería existir.
-
 El cristal sigue vivo.
 
 https://aion-el-testigo-del-tiempo-app.vercel.app
@@ -38,3 +40,4 @@ https://github.com/ruvalcab8eduardo-collab/aion-el-testigo-del-tiempo
 - 2026-10-04: issue publico con el copy de Kael, Aion y los 27 capitulos.
 - 2026-10-06: issue publico con copy de la tormenta, el cristal, Aion y los 27 capitulos, mas enlace a la app en vivo.
 - 2026-10-08: issue publico con copy de la advertencia ignorada, la inundacion, Aion y los 27 capitulos. Enlace a la app en vivo. Cero gasto en anuncios.
+- 2026-11-13: issue publico con copy misterioso del cristal de tres caras, Kael, Aion y los 27 capitulos. Enlace a la app en vivo. Cero gasto en anuncios.
